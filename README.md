@@ -11,3 +11,6 @@
 
 ### Используемые инструменты
 `NumPy`, `Pandas`, `Scikit-learn`, `Matplotlib`, `mlxtend`.
+
+## 3. [Gradient descent, Stochastic gradient descent](gd-sgd-linreg.ipynb)
+Реализовал классический градиентный спуск и стохастический для лучшего понимания данных алгоритмов. Протестировал его на задаче линейной регрессии с разными функциями потерь: MSE, MSE + L2, HuberLoss.
